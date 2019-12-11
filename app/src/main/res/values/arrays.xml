@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Horario">
+        <item>MAÑANA</item>
+        <item>MEDIODIA</item>
+        <item>NOCHE</item>
+    </string-array>
+
+    <string-array name="Notificaciones">
+        <item>Si</item>
+        <item>No</item>
+    </string-array>
+
+</resources>

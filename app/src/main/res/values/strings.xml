@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">listamedicamentos</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_app">Lista de medicamentos</string>
+    <string name="title_activity_main1">MainActivity1</string>
+    <string name="title_activity_test">test</string>
+</resources>
